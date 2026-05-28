@@ -9,6 +9,7 @@ peace_capitulation_close: "[hoi4pc_get_close]"
 peace_capitulation_close_good: "Great news!"
 peace_capitulation_close_bad: "These are dark times."
 peace_capitulation_close_neutral: "Uncertain times."
+peace_capitulation_close_default: "Close"
 
 ##=== Header ===##
 
@@ -53,8 +54,11 @@ hoi4pc_desc.SPC: "No gods, no masters, no hope." # CNT/FAI spain
 hoi4pc_desc.SPD: "¡No pasarán!" # Republican spain
 hoi4pc_desc.GRE: ""Molṑn labé!""
 hoi4pc_desc.TUR: "The gates of the Bosphorus have been opened."
-hoi4pc_desc.FIN: "The winter embraced us, but it could not save us."
+hoi4pc_desc.FIN: "The snow covers the fallen."
 hoi4pc_desc.IRE: "And they dreamt of their homeland united."
+hoi4pc_desc.YUG: "Only their graves remain united."
+hoi4pc_desc.HUN: "Another requiem falls upon the Danube."
+hoi4pc_desc.ROM: "The forests of Wallachia loom over their graves."
 
 # Asia / Oceania
 hoi4pc_desc.TAN: "Tannu what?"

@@ -108,7 +108,7 @@ guitypes = {
 			name = "close_button"
 			position = { x=137 y =231}
 			quadTextureSprite ="GFX_button_221x34"
-			buttonText = "peace_capitulation_close"
+			buttonText = "peace_capitulation_close_default"
 			buttonFont = "hoi_18mbs"
 			shortcut = "RETURN"
 			clicksound = click_ok

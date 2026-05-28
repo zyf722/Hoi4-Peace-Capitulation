@@ -395,6 +395,30 @@ defined_text = {
 	text = {
 		trigger = {
 			var:losing_country^peace_gui_index = {
+				original_tag = ROM
+			}
+		}
+		localization_key = hoi4pc_desc.ROM
+	}
+	text = {
+		trigger = {
+			var:losing_country^peace_gui_index = {
+				original_tag = YUG
+			}
+		}
+		localization_key = hoi4pc_desc.YUG
+	}
+	text = {
+		trigger = {
+			var:losing_country^peace_gui_index = {
+				original_tag = HUN
+			}
+		}
+		localization_key = hoi4pc_desc.HUN
+	}
+	text = {
+		trigger = {
+			var:losing_country^peace_gui_index = {
 				original_tag = IRE
 			}
 		}
